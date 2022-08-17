@@ -3,7 +3,7 @@
   <name>КаркаснаяКонфигурация</name>
   <synonym>
     <key>ru</key>
-    <value>Каркасная конфигурация</value>
+    <value>Каркасная конфигурация ОУ Задача 1 (преподаватель)</value>
   </synonym>
   <comment>Каркасная конфигурация 13.07.2020</comment>
   <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="a0068262-10a0-4841-82b6-f6e35a7fc312"/>
@@ -13,6 +13,7 @@
   <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="6c200301-dde9-4d39-be70-f308c089363c"/>
   <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="9f2bc417-6f6a-4142-8bbb-70f95c19b247"/>
   <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="9aef61a5-702b-4ffa-a67c-e0b92778e29e"/>
+  <configurationExtensionCompatibilityMode>8.3.21</configurationExtensionCompatibilityMode>
   <defaultRunMode>ManagedApplication</defaultRunMode>
   <usePurposes>PersonalComputer</usePurposes>
   <scriptVariant>Russian</scriptVariant>
